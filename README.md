@@ -12,7 +12,16 @@ This system is a simple Library Management System developed for the final projec
 * Change login username and password.
 
 ## Screenshots
-![Screenshot](https://github.com/HasinthaNayanajith/net-speed-checker/raw/main/01.jpg)
+![Screenshot](https://github.com/HasinthaNayanajith/LibraryMS_1/raw/master/01.jpg)
+![Screenshot](https://github.com/HasinthaNayanajith/LibraryMS_1/raw/master/02.jpg)
+![Screenshot](https://github.com/HasinthaNayanajith/LibraryMS_1/raw/master/03.jpg)
+![Screenshot](https://github.com/HasinthaNayanajith/LibraryMS_1/raw/master/04.jpg)
+![Screenshot](https://github.com/HasinthaNayanajith/LibraryMS_1/raw/master/05.jpg)
+![Screenshot](https://github.com/HasinthaNayanajith/LibraryMS_1/raw/master/06.jpg)
+![Screenshot](https://github.com/HasinthaNayanajith/LibraryMS_1/raw/master/07.jpg)
+![Screenshot](https://github.com/HasinthaNayanajith/LibraryMS_1/raw/master/08.jpg)
+![Screenshot](https://github.com/HasinthaNayanajith/LibraryMS_1/raw/master/09.jpg)
+![Screenshot](https://github.com/HasinthaNayanajith/LibraryMS_1/raw/master/10.jpg)
 
 ## Author
 Hasintha Nayanajith\
