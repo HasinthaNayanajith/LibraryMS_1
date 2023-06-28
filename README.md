@@ -1,2 +1,4 @@
-# LibraryMS_1
-Library Management System for DiSE final project
+# Library Management System
+
+##Introduction
+This system is a simple Library Management System developed for the final project of foundation diploma.
