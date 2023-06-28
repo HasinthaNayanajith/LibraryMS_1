@@ -1,9 +1,9 @@
 # Library Management System
 
 ## Introduction
-This system is a simple Library Management System developed for the final project of foundation diploma using Java and MySQL Database.
+This system is a simple Library Management System developed using Java and MySQL Database as the final project of my foundation diploma.
 
-## Features
+## Key Features
 * Admin and Member Login.
 * Seperate dashboards for librarian and member.
 * Add new books. Search, edit and delete books.
@@ -13,6 +13,7 @@ This system is a simple Library Management System developed for the final projec
 
 ## Source Code
 Download Project Source Code with MySQL Database File.\
+
 [Download](https://github.com/HasinthaNayanajith/LibraryMS_1/raw/master/Project.zip)
 
 ## Screenshots
@@ -28,6 +29,7 @@ Download Project Source Code with MySQL Database File.\
 ![Screenshot](https://github.com/HasinthaNayanajith/LibraryMS_1/raw/master/10.jpg)
 
 Download Project Source Code with MySQL Database File.\
+
 [Download](https://github.com/HasinthaNayanajith/LibraryMS_1/raw/master/Project.zip)
 
 ## Author
